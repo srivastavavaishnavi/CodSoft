@@ -1,6 +1,7 @@
 # CodSoft First Task
-Web Development Level 1 Task 1
-                              Landing Page
+Creating a Landing Page.
+
+                Web Development Level 1 Task 1
                               
 A landing page is an ideal web development project for beginners. It requires basic
 knowledge of HTML and CSS. Through this project, you'll learn to create columns, divide
